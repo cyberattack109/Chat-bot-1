@@ -65,7 +65,7 @@ module.exports.handleEvent = async function({ api, event, Users }) {
 
     const message =
 `╭──────•◈•──────╮
-   Hᴇʏ Xᴀɴ I’ᴍ Mᴀʀɪᴀ Bᴀʙʏ✨   
+   Hᴇʏ Xᴀɴ I’ᴍ 𝐈𝐭𝐚𝐜𝐡𝐢 𝐁𝐨𝐭✨   
 
  ❄ Dᴇᴀʀ, ${name}
  💌 ${randReply}
